@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Fjalla";
+    src: url(../fonts/FjallaOne-Regular.ttf) format("truetype");
+}
+
+
+.homepage-image {
+    height: 415px;
+    width: 399px;
+}
+
+.smiley-image {
+    height: 363px;
+    width: 407px;
+}
+
+.gallery-image {
+    height: 260px;
+    width: 350px;
+}
